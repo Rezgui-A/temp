@@ -1,0 +1,41 @@
+----------------------------------------------------------------INSTRUCTIONS----------------------------------------------------------------
+
+Project dev strated :30/01/2025
+
+
+-------------------------------
+Date add: 30/01/2025 
+
+First thing to do :
+
+*Modif Nav :
+-Home
+-services
+-About
+-Portfolio
+-Contact Us
+-Vidéos change by  ( Work with us)  => ethez fi lien e5er bech ta3mer formulaire :  Basic    
+
+*ADD for Nav :
+- Image change language => 3 option langue de Base            
+                   
+*Modif Body :
+**Services :
+- Remove First card => Guidlines
+- Modif Third card (Ux Design) by => Logo Design / modif paragraphe too
+- Modif Fourth card (Discover and explore ) by => Web site creation
+- Modif 5 card (Optmize web site ) by => Social media managment 
+- Modif 6 card (See the stratigy in the market ) by => Business 
+- Modif 9 card ( accecibility for mobile viewing) by => Création application mobile
+
+**Modif speed scroll : 
+- Page services
+- page Portfolio 
+
+** Remove :
+- Page Video 
+- a part of page Portfolio 
+-------------------------------
+
+
+
