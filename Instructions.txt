@@ -34,7 +34,7 @@ First thing to do :
 
 ** Remove :
 - Page Video 
-- a part of page Portfolio 
+- a part of page Portfolio  
 -------------------------------
 
 
