@@ -9,12 +9,12 @@ Date add: 30/01/2025
 First thing to do :
 
 *Modif Nav :
--Home
+-Home 
 -services
 -About
 -Portfolio
 -Contact Us
--Vidéos change by  ( Work with us)  => ethez fi lien e5er bech ta3mer formulaire :  Basic    
+-Vidéos change by  ( Work with us)  => ethez fi lien e5er bech ta3mer formulaire :  Basic 
 
 *ADD for Nav :
 - Image change language => 3 option langue de Base            
@@ -36,4 +36,6 @@ First thing to do :
 - Page Video 
 - a part of page Portfolio  
 ------------------------------
-
+I can't say it's done but 2/3 of the task has done, 
+Traduction is now working ! 
+--Proble to change the flag when i select a language  
